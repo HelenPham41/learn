@@ -29,7 +29,7 @@ public class Main {
         //abstract
         //LP
         LP lp = new LP();
-        lp.nameOfArtist = "Lisa";
+        lp.nameOfArtist = "Lisa - Black Pink";
         lp.nrOfRecords = 9;
         lp.addArtikel();
         lp.removeArtikel();
