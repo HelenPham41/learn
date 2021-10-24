@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Studio;
 
 interface Player {
     void play();

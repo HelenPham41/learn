@@ -1,8 +1,6 @@
-package com.company;
+package com.company.Library;
 
 public class Boardgame extends Artikel {
-    public Integer nrOfPlayers;
-    public Integer averagePlaytime;
 
     @Override
     public void addArtikel() {

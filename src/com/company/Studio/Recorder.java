@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Studio;
 
 public interface Recorder {
     void record();

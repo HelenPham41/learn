@@ -1,4 +1,7 @@
-package com.company;
+package com.company.Studio;
+
+import com.company.Studio.Player;
+import com.company.Studio.Recorder;
 
 public class TapePlayer implements Player, Recorder {
     @Override

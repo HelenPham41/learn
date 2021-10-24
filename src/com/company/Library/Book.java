@@ -1,8 +1,7 @@
-package com.company;
+package com.company.Library;
 
-public class Book extends Artikel{
-    public String writer;
-    public String genre;
+public class Book extends Artikel {
+
     @Override
     public void addArtikel() {
         System.out.println("Add writer: " + writer);

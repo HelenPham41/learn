@@ -1,8 +1,7 @@
-package com.company;
+package com.company.Library;
 
-public class LP extends Artikel{
-    public String nameOfArtist;
-    public Integer nrOfRecords;
+public class LP extends Artikel {
+
     @Override
     public void addArtikel() {
         System.out.println("Add name of Artist: " + nameOfArtist);

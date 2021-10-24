@@ -1,4 +1,6 @@
-package com.company;
+package com.company.Studio;
+
+import com.company.Studio.*;
 
 public class DVDPlayer implements Player {
     @Override
